@@ -1,5 +1,3 @@
-#Write your code below this row 👇
-
 fizz = "Fizz"
 buzz = "Buzz"
 
